@@ -1,6 +1,6 @@
 # Python language protobuf for OpenFMB operational use cases
 
-This repository contains the [Pyton](https://www.python.org/) programming language Protocol Buffer (protobuf) definitions based on the OpenFMB operational use case data model located [here](https://github.com/OpenFMB-Users-Group/pim.git).
+This repository contains the [Python](https://www.python.org/) programming language Protocol Buffer (protobuf) definitions based on the OpenFMB operational use case data model located [here](https://github.com/OpenFMB-Users-Group/pim.git).
 
 ## Including in your project
 
